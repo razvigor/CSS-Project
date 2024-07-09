@@ -268,7 +268,7 @@ header label {
 }
 @keyframes lights {
   0% {
-    color: hsl(230, 40%, 80%);
+    color: rgb(184, 190, 224);
     text-shadow: 0 0 1em rgba(255, 0, 170, 0.2),
       0 0 0.125em rgba(255, 51, 187, 0.3),
       -1em -0.125em 0.5em rgba(255, 187, 51, 0),
@@ -276,7 +276,7 @@ header label {
   }
 
   30% {
-    color: hsl(230, 80%, 90%);
+    color: rgb(209, 216, 250);
     text-shadow: 0 0 1em rgba(255, 0, 170, 0.5),
       0 0 0.125em hsla(320, 100%, 60%, 0.5),
       -0.5em -0.125em 0.25em rgba(255, 187, 51, 0.2),
@@ -284,7 +284,7 @@ header label {
   }
 
   40% {
-    color: hsl(230, 100%, 95%);
+    color: rgb(230, 235, 255);
     text-shadow: 0 0 1em rgba(255, 0, 170, 0.5),
       0 0 0.125em rgba(255, 204, 238, 0.5),
       -0.25em -0.125em 0.125em rgba(255, 187, 51, 0.2),
@@ -292,7 +292,7 @@ header label {
   }
 
   70% {
-    color: hsl(230, 80%, 90%);
+    color: hwb(230 82% 2%);
     text-shadow: 0 0 1em hsla(320, 100%, 50%, 0.5),
       0 0 0.125em hsla(320, 100%, 60%, 0.5),
       0.5em -0.125em 0.25em hsla(40, 100%, 60%, 0.2),
