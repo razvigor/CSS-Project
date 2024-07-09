@@ -22,7 +22,7 @@ This project is a basic web page created as part of a course on HTML and CSS. It
 
 ## Usage
 
-- Visit the live demo: [Project Demo](https://example.com)
+- Visit the live demo: [Project Demo]([https://example.com](https://htmlcsssinglepageproject.netlify.app))
 - Explore the different sections of the web page.
 - Modify the content or styles as needed for your own project.
 
